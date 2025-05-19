@@ -12,5 +12,6 @@ public class Client {
         System.out.println("pull master");
         System.out.println("new branch");
         System.out.println("master111");
+        System.out.println("hot-fix222");
     }
 }
